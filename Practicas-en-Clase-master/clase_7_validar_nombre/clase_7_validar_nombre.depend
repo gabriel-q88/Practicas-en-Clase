@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1536688940 source:/home/alumno/Documentos/utn.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1536714977 source:/home/alumno/Descargas/prueba/clase_7_validar_nombre/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"../../../Documentos/utn.h"
+
+1536688940 /home/alumno/Documentos/utn.h
+
